@@ -8,8 +8,10 @@
     - [ ] Campus ambassadors program to outreach to different schools (community colleges, high schools etc.)
     - [ ] Cross promote with neighbouring hackathons
     - [ ] Advertise event as beginners friendly!
-    - [ ] Different school’s Facebook groups
+    - [ ] Different school’s Facebook and Twitter groups
     - [ ] Multiple disciplines (consider contacting profs to offer extra credit)
+    - [ ] Add flyers to classrooms or write your annoucement onto whiteboards or chalkboards
+
 - [ ] Diverse representation on media and pictures 
 - [ ] Make sure hackathon website is accessible (screen-readers friendly, high contrast)
 - [ ] Share testimonials on website / social media to recruit more diverse participants ( testimonials from beginners, people from underrepresented groups etc.)
